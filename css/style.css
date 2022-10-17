@@ -1,5 +1,42 @@
-a{
-    text-decoration: none;
-    padding: 0 1rem;
+:root{
+    --mountain-meadow: #1ABC9Cff;
+    --charcoal: #2C3E50ff;
+    --y-in-mn-blue: #3A546Dff;
+}
+.bgc-dark{
+    background-color: var(--charcoal);
+}
+.bgc-dark-blue{
+    background-color: var(--y-in-mn-blue);
+}
+.bgc-aqua{
+    background-color: var(--mountain-meadow);
+}
+
+
+ul li{
+    padding: 0 .5rem;
+
+}
+
+.small-bar{
+    width: 70px;
+    height: 4px;
+    
     display: flex;
+    border-radius: 2px;
+    margin: 0 .5rem;
+    
+    
+}
+.bgc-blck{
+    background-color: black;
+}
+.bgc-wht{
+    background-color:white;
+}
+.bar-star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
