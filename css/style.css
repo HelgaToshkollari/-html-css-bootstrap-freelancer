@@ -16,18 +16,13 @@
 
 ul li{
     padding: 0 .5rem;
-
 }
 
 .small-bar{
     width: 70px;
     height: 4px;
-    
-    display: flex;
     border-radius: 2px;
     margin: 0 .5rem;
-    
-    
 }
 .bgc-blck{
     background-color: black;
