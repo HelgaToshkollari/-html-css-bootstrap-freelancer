@@ -35,3 +35,9 @@ ul li{
     align-items: center;
     justify-content: center;
 }
+.my-form-control{
+    border-top: 0;
+    border-radius: 0;
+    border-left: 0;
+    border-right: 0;
+}
